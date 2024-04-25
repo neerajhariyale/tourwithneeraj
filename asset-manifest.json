@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tourwithneeraj/static/css/main.77b44e70.css",
+    "main.js": "/tourwithneeraj/static/js/main.d787ca71.js",
+    "static/js/453.ace3e5dd.chunk.js": "/tourwithneeraj/static/js/453.ace3e5dd.chunk.js",
+    "index.html": "/tourwithneeraj/index.html",
+    "main.77b44e70.css.map": "/tourwithneeraj/static/css/main.77b44e70.css.map",
+    "main.d787ca71.js.map": "/tourwithneeraj/static/js/main.d787ca71.js.map",
+    "453.ace3e5dd.chunk.js.map": "/tourwithneeraj/static/js/453.ace3e5dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77b44e70.css",
+    "static/js/main.d787ca71.js"
+  ]
+}
