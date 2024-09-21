@@ -10,6 +10,7 @@ function App() {
     const newTours = tours.filter(tours => tours.id !== id);
     setTours(newTours);
   }
+  //if condition
   if (tours.length === 0) {
     return (
       <div className="h-dvh w-screen flex flex-col justify-center items-center">
