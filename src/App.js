@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import Tours from "./component/Tours";
 import data from "./data";
 
+//App
 function App() {
   const [tours, setTours] = useState(data)
 
