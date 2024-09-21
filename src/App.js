@@ -5,7 +5,7 @@ import data from "./data";
 //App
 function App() {
   const [tours, setTours] = useState(data)
-
+  //function remove tour()
   function removeTour(id) {
     const newTours = tours.filter(tours => tours.id !== id);
     setTours(newTours);
