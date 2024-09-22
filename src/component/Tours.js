@@ -1,6 +1,8 @@
 //Import card
 import Card from "./Card";
 
+//Tours Function
+
 function Tours({tours , removeTour}) {
     return (
         <div className="flex flex-col justify-center items-center mt-4">
